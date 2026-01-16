@@ -1,5 +1,5 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=120&text=요구사항을%20기술로%20해결하는%20개발자%20김동현&animation=&fontColor=000000&fontSize=40" /><div>사용자의 불편함을 해결하고 편리함을 만드는 것을 기술로 구현하고 싶습니다</div>
+    <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=120&text=요구사항을%20기술로%20해결하는%20개발자%20김동현&animation=&fontColor=000000&fontSize=40" /><div>사용자의 불편함을 기술로 해결하며, 안정적이고 편리한 서비스를 구현하고 싶습니다</div>
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>  
