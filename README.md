@@ -22,7 +22,7 @@
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Projects </h2> <div style="text-align: left;">  
-    <div>🏠 Unidorm: 인천대학교 기숙사 통합 서비스(<a href="https://github.com/Teach-D/appcenter-16.5-dormitory-project">github</a>)</div>  
+    <div>🏠 Unidorm: 인천대학교 통합 기숙사 프로젝트(<a href="https://github.com/Teach-D/appcenter-16.5-dormitory-project">github</a>)</div>  
         <div>🛒 Store: 쇼핑몰 개인 프로젝트(<a href="https://github.com/Teach-D/store">github</a>)</div>  
         <div>🌳 Walk it: 산책 감정 기록 프로젝트(<a href="https://github.com/SWYP-1/walkit-backend">github</a>)</div> 
   </div> 
